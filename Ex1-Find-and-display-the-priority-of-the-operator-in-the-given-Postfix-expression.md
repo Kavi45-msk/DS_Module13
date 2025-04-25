@@ -76,9 +76,8 @@ return 0;
 ```
 
 ## Output:
-![Uploading image.png…]()
 
-
+![437337673-a810844b-7ebc-4079-952f-80e4d2850f93](https://github.com/user-attachments/assets/633f0887-06ad-4720-aaa4-e763cc09caec)
 
 ## Result:
 Thus the C program to find and display the priority of the operator in the given Postfix expression is implemented successfully
